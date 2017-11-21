@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica;
+}
+#title {
+  text-align: center;
+    background-image: url("../Images/image1.jpeg");
+      font-size: 100px;
+      font-weight: bold;
+      color: Khaki;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+    color: white;
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+.coral {
+  background-color: lightcoral;
+}
+.blue {
+  background-color: skyblue;
+}
+span {
+  font-weight: bold;
+    color: blue;
+}
+}
