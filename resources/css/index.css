@@ -4,6 +4,7 @@ body {
 #title {
   text-align: center;
     background-image: url("../Images/image1.jpeg");
+    background-repeat: no-repeat;
       font-size: 100px;
       font-weight: bold;
       color: Khaki;
